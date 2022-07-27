@@ -1,0 +1,7 @@
+com\pxb\rmi\server\RMIServer.class
+TestRef.class
+com\pxb\jndirmi\server\JNDIRMIServer.class
+com\pxb\rmi\server\RemoteObjImpl.class
+com\pxb\rmi\server\IRemoteObj.class
+com\pxb\rmi\client\RMIClient.class
+com\pxb\jndirmi\client\JNDIRMIClient.class
